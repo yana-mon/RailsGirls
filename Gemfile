@@ -12,6 +12,8 @@ end
 group :production do
   gem 'pg'
 end
+
+gem 'mini_magick'
 gem 'carrierwave'
 gem 'devise'
 gem 'gravtastic'
